@@ -1,7 +1,2 @@
 txt
 
-changes
-
-code
-
-txt
