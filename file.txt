@@ -2,4 +2,12 @@ txt
 
 code
 
+<<<<<<< HEAD
 BRBRBR2
+=======
+
+
+how_to_merge_this
+
+123
+>>>>>>> branch1
